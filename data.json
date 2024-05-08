@@ -1,0 +1,2297 @@
+{
+    "response": {
+        "count": 1329,
+        "items": [
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Микс из орхидей в удобной шляпной коробке.",
+                "id": 136312,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Шляпная моно коробка с орхидеями",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=400x0&quality=95&sign=264b71aa77dcd1985fc980045cc5eb1a&c_uniq_tag=NkGUx52dmGZG4vJeOv4VRgJaCBOGhAw6AVaViSf4xMw",
+                "csrf_hashes": "fav=d7eedda754f0661fc6&wishlist=b273ddf47518a5c47c",
+                "thumb": [
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=90x0&quality=95&sign=739bc490feab52e1863b37430a34c52b&c_uniq_tag=mOdszO0hSD7q3Up3AS0NtCPKc5BTKN91UaYrY7IYfs4",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=180x0&quality=95&sign=283c343f1ce8bbee5894c751390c7704&c_uniq_tag=Jz7uZfYaeXoB_Zn6euhXkRM9JtklzObkbixU4HV2qig",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=360x0&quality=95&sign=32b4c10dbbd61a3c3bb02c4f3cd42eec&c_uniq_tag=G6vbnvDJNP3luSVtmVR_D9TKJ8VZ79tbM9vR8ngRJCk",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=480x0&quality=95&sign=4c4da00529b0b0497772c4800a716945&c_uniq_tag=416scH3ZACG6GhYm0jkrq_O0FiSjTsziwxLaRLx_LKs",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c633726/v633726681/2471d/4G1HYqU6U6M.jpg?crop=0,0.1,1,0.799&size=640x0&quality=95&sign=d698f230866703e5fa01afc2e7ab606e&c_uniq_tag=cfE6zpKzm8p1bhIL1SVH2u-Et_k1sPwD9vBxgiO1SmE",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "shlyapnaya-mono-korobka-s-orkhideyami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Яркие классические розы и альстромерии в шляпной коробке сочного оттенка. ",
+                "id": 136307,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Большая шляпная коробка с розами ",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x400&quality=95&sign=4d0ff6dff4538a8d6fb0bf9e982cbd4d&c_uniq_tag=3VMNpLxCyLqEK5gifYJ4fAu7QvUIbVeZGJRrTGYmobs",
+                "csrf_hashes": "fav=d06fae2c6acc80704a&wishlist=33303d9b6036a6cfaa",
+                "thumb": [
+                    {
+                        "url": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x90&quality=95&sign=a21fea377af47e1de03ad03a05ae34dd&c_uniq_tag=n1nRM9OPTXveooVP0hIObsYB8UobsG0AkW63RygdHeY",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x180&quality=95&sign=285a98dd1ce82dcb61dd7f62bd1d9202&c_uniq_tag=IjLPbRnjH7Z7y-IKhVog1T1AHehLYbmCZ0KEOytg5N0",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x360&quality=95&sign=97056ee52228b30821656276ceed1ac6&c_uniq_tag=Ju-KST2h455NT0wh3hTRycBr9S2q2S_CApLunIc8Es4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x480&quality=95&sign=71929ca47f6a1fdb3bdc32e889773124&c_uniq_tag=0RmhkcCZwe27xxGWAsUlU2IKpBG8wcQbd2MPfKMld8g",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-71.userapi.com/impf/c633726/v633726681/246dc/bg2o7Ua7LNs.jpg?crop=0,0,1,1&size=0x500&quality=95&sign=4477236bcdb6b01ae7affc762db72d68&c_uniq_tag=qrdV8xfmpXQ11mKamE5FaIjferNtlTf5SqqGpr3vMG0",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "bolshaya-shlyapnaya-korobka-s-rozami-"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Нежная орхидея и кремовая роза, в удобной шляпной упаковке. ",
+                "id": 136299,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Шляпная коробка с орхидеями ",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=ea161e6fc16a3647a1b4d12108c5e1a8&c_uniq_tag=4tRboV423yfNrzG4-es2nW5b7FsEiDtUrJdvMR6VTz0",
+                "csrf_hashes": "fav=9928e4830d75a3af50&wishlist=2115f08de0ede4587b",
+                "thumb": [
+                    {
+                        "url": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=60d4613f543180b48c2a8843bad18ac4&c_uniq_tag=uWyrY3Q4WCtWOU0DSABwZb5N7uWV71GJZ72D3yi6ckU",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=75b8a0d0c462ce05c31607df7ce4de5a&c_uniq_tag=yEpPVhcIjXyyE9WfJbLjai4JFBwxRWNAW9KvDKof3k0",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=03f2a18203538a2f5085e2ff422a22ff&c_uniq_tag=G0ih78VBcYRm4tonwRP-Bpf8xgVeG1SMgMj3xZberuk",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=aa6ff5c89569ed24a5875e34dd5421b1&c_uniq_tag=A3JPkpjr3ADwCrczmSUpYiNRmhrbKIVGIa3SzRwzZsc",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-9.userapi.com/impf/c633726/v633726681/2469a/Nl_NwUMLw70.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=5099ad87e7d957974baa21d388f891a7&c_uniq_tag=dfxHRAb9M0k_WmHY9uMBOtWctH73jP9ZC5L01NXbz1I",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "shlyapnaya-korobka-s-orkhideyami-"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Букет с красными тюльпанами и мимозой в крафте.",
+                "id": 126083,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с красными тюльпанами в крафте",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x400&quality=95&sign=876aaadbafd79b49194062289113dba5&c_uniq_tag=UcVKV_Mvc96_7Gnb27bzSln-u5mlQKPiKpGpMXcnGR0",
+                "csrf_hashes": "fav=8a6226ee6723fb10f8&wishlist=0a7e502aaba00b93ab",
+                "thumb": [
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x90&quality=95&sign=b2c3ecd53356c303f9ceca9ce56e4d2a&c_uniq_tag=kNa-e2I8iTofkca78fj_V4-mKXG2Zij0cJKEcWcDaPU",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x180&quality=95&sign=d9f6414919095771a310e478a089e721&c_uniq_tag=8r0m6bSScpYBMiggebQneca6OiIVO9y5X6aynDv_wNs",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x360&quality=95&sign=2c82da1cbbef0a214f3dfd97e0276738&c_uniq_tag=_lyNbY23IH9FmosF7Lh5rVuLa1cKcuIDBQ6LPiJWHvk",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x480&quality=95&sign=4980f03052d8bd147b36eb02c8f9ba24&c_uniq_tag=ZsZHmi-8DnSiuUFKCBQtzlqrG3KaU04rF-GAUBAtxaI",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b9d6/f6s3LtK8dV8.jpg?crop=0.129,0,0.743,1&size=0x640&quality=95&sign=6c72b6ab1a6131396b857feb2a8b146c&c_uniq_tag=MpUIKlAkprw9aZ5e-E8y14Y1jHZ3eeUuUNqo-dnL1l4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-krasnymi-tyulpanami-v-krafte"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Букет с белыми тюльпанами, альстромерией и зеленью в крафте",
+                "id": 126082,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с белыми тюльпанами в крафте",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x400&quality=95&sign=aacf665bafc9296684310842820bbd53&c_uniq_tag=sU6Y6-IX110AMTAwXD3DF996XWFYbkRRviRra6lXqyw",
+                "csrf_hashes": "fav=6f8870fcf781c6527b&wishlist=a7c66f19d51cd24fd2",
+                "thumb": [
+                    {
+                        "url": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x90&quality=95&sign=3421ce157546fc7b083c8462521fdd59&c_uniq_tag=4ChCVlREvxiexSBMC5LTNYLfOZG_7l4XGc28lQQWlkg",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x180&quality=95&sign=ed33daa1db186ad8229be34398629c47&c_uniq_tag=58l6XJYEJnGdTDYotDWO12jTc1ujPgkj0qwhyYoKYQs",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x360&quality=95&sign=1b28b89e1e0160096308236d659200de&c_uniq_tag=9_GiY1Y8YeNpigxzW7DCz6AfN9vLJuYZ5Tz-FtVSiCA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x480&quality=95&sign=0cdb93e3dd6cce0a113050fddc0fc3ef&c_uniq_tag=wJbiCHkFX9kvZ-peSefL-foWPNlvsHFMt7R0h9zLEe8",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-18.userapi.com/impf/c630720/v630720836/1ba05/9g1NqVjedyw.jpg?crop=0.135,0,0.73,1&size=0x640&quality=95&sign=2d515ec4562453670e40ec4bfd6fb9d5&c_uniq_tag=V8myQs-Zq_M1v6P6jZXrw6XBQcjDmqOBmqQqAk1X1dE",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-belymi-tyulpanami-v-krafte"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Очаровательный сундук с цветочным принтом и цветочным наполнением из лизиантуса, альстромерии, фисташки и статицы.",
+                "id": 126054,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Сундук с цветами",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x400&quality=95&sign=ae308ee4d18b3b9aeaafa0d161c8c9e4&c_uniq_tag=T1FS_ZG9qY6CDY6xchloM4rC7shN_-39SRqePxp-03w",
+                "csrf_hashes": "fav=abb5d3fe16ef53029c&wishlist=ee235af9808491f7cd",
+                "thumb": [
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x90&quality=95&sign=f5700217ba89c3b9def935c5e3535e15&c_uniq_tag=0tn1Dfi3AyAL3Q27_k_9Zdnn2_bkxo94CNpbEr1jhUM",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x180&quality=95&sign=97cdaaf97256e74d7867efe92f266869&c_uniq_tag=0omzkrenxeNWidHWSdfCoSfrzjMWuJFg8AUZWoJBeDw",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x360&quality=95&sign=156cafd6ca9032657f5c52b9009b58f6&c_uniq_tag=o4qImf5Rj8SFincveqzZNoVLej9FcqNM7HHXX48DxWg",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x480&quality=95&sign=e5e33b1d69e2be9771b7b38cc37ba9df&c_uniq_tag=6ZB5gWAasYkNDyFd_rwepgSx5djNaEeefwJ__2NrR9s",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-48.userapi.com/impf/c630720/v630720836/1b877/_eLIb9XsAos.jpg?crop=0,0,1,1&size=0x500&quality=95&sign=fe40369a8f896a19c94ffbcca480873c&c_uniq_tag=MwAsNoN_WfBknwSgwcWSHGw4-AORWoI6Hbfh6BDVUQI",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "sunduk-s-tsvetami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Композиция в красной стеклянной декорированной вазе.\nБесплатная доставка при заказе от 2 штук.",
+                "id": 120818,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Композиция в красной стеклянной вазе",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=6aecdc8e399c04b8207cc042f1032bc0&c_uniq_tag=Yxm3usIakV1TKOwA9gZh1clccgcnPbCPENAUXJ7elOg",
+                "csrf_hashes": "fav=c638be18da137d23dc&wishlist=092b9b4dcc713e7f00",
+                "thumb": [
+                    {
+                        "url": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=f9f8e90c266d7dc40eb8944e0595da96&c_uniq_tag=LDGHXG7jk7hzGoL2oHtjc29RTf8LqUx3RbtNJLIwI18",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=7e2359489fdcbca5c6f89ee79b1c8de7&c_uniq_tag=Yms9L6eRHNAeLYb9I-LKJs-PvYBp-iYkmL6gB9YQpaQ",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=35f19164db00c1bbfb136d438720671d&c_uniq_tag=uFXQmQ9npxYflK2a6-I7PEN0cYlu4o2qo2Gk1O9mdak",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=3d5941ea66fce3044d7651c08a4baec3&c_uniq_tag=9t5X8twlQDNETRqJFZfHddNeMjhESNwAroWxohSkxSw",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-6.userapi.com/impf/c630027/v630027836/16b77/lHoru_Buhto.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=467541d51ce62970d30d7e238eb4e706&c_uniq_tag=QKLZh-2EXzQXE9JYVSlNB0J1_VmkSuVfaOeyDgiWxEA",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "kompozitsia-v-krasnoy-steklyannoy-vaze"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Чудесная маленькая композиция в керамическом ведёрке.\nБесплатная доставка по Санкт-Петербургу при заказе от 3 штук.",
+                "id": 120817,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Композиция в керамическом ведёрке",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x400&quality=95&sign=59600ffd97a3883cc0bcea9dd458480d&c_uniq_tag=l5zPVgS5v_SEmMAl0juzFK-fvipP639yLdKXxA-qn0w",
+                "csrf_hashes": "fav=b304aae4ab021d84aa&wishlist=1198547475c2199062",
+                "thumb": [
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x90&quality=95&sign=695be2d5f5df7523890b599b10768793&c_uniq_tag=LZEnBueIb2t_WHVitOrnTDJwTMsl4m1Li-WTb7-kT7k",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x180&quality=95&sign=485888ebefeda9638c22ddb803909380&c_uniq_tag=BbYJzqxwKrZ0f3cZL3sXeNCTc9s5fi4qIes79sbEm-4",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x360&quality=95&sign=afbf151edaa52d4dbe05e71e7341d86a&c_uniq_tag=kBb9TooWsjpJ8lKsF6DGDwzNDtrJ2Dk4EuNN-DXEVLk",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x480&quality=95&sign=3024bd49e74afc251aa99b3aa41a115d&c_uniq_tag=pUHDAhLRn-bcG9NE-v-00c-S1_TAjTuuvpnhajBrpoE",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-49.userapi.com/impf/c630027/v630027836/16b5b/T03DDMzoozc.jpg?crop=0.167,0,0.666,1&size=0x640&quality=95&sign=2f53669c6bf297755ef77eda28f01677&c_uniq_tag=cBt0c9_3R16vUuf9wYAxkx67LKEzMFE0Fc4WwcrQTF4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "kompozitsia-v-keramicheskom-vedyorke"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 906,
+                    "name": "Сувениры и цветы",
+                    "is_v2": false,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 9,
+                        "name": "Досуг и подарки",
+                        "is_v2": false
+                    }
+                },
+                "description": "Яркий и объемный букет.\n\nСостав букета: Пионовидная роза, гермини, статица, сантини и эвкалипт.",
+                "id": 120341,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с пионовидной розой",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x400&quality=95&sign=781a60c4c431bf58cb798b6c8d8f7d2e&c_uniq_tag=Cf09da0HwHz4NiSFduDH4LfXBSrvhZ0-f_XuaSlne3I",
+                "csrf_hashes": "fav=f7ace7f67ee0abe7f8&wishlist=917a9501b79e5bd45f",
+                "thumb": [
+                    {
+                        "url": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x90&quality=95&sign=e46488ae66a8c36f5317e821b9a1add9&c_uniq_tag=egxRKwNlKtpjxJwNmCtOCUPK4-lCVHjbh59Yq7bjyxo",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x180&quality=95&sign=0d8d5f4c2af682f44e06141ba2b19b70&c_uniq_tag=x3VsYSuCLXRvSvi4EGiBxEQp9JRzeolaTiUT1HVaocU",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x360&quality=95&sign=9d269ab7e0f814cf9dd4e1311b8e8736&c_uniq_tag=MAIVYo69znog0rE7KBcCMA8qMlU7xr0Ho9jSuAyQ41o",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x480&quality=95&sign=a4d5fe68c5d58dc3ab03b2e18d54e28e&c_uniq_tag=StVZn9z14hSo07b6YepK7LBNkasQOTxeF1hYXe3McaM",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-14.userapi.com/impf/c631831/v631831836/166d1/liNlJS4AQv0.jpg?crop=0.171,0,0.657,1&size=0x640&quality=95&sign=d1eefcba2e4f7eda06bb0c2e48ddf48a&c_uniq_tag=8El_NQv98TvwzQ-MR4E4q2a5w_ezxc_eofURvATKTWU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-pionovidnoy-rozoy"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Вертикальный букет с каллами, орхидеями, белоснежными лизиантусами и экзотической зеленью ждет своего обладателя в нашем магазине, а также Вы можете заказать доставку домой или в офис.",
+                "id": 120333,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с каллами, орхидеями, лизиантусами и экзотической зеленью",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=5d63bbd503770da09d630489deeea1bb&c_uniq_tag=16piZrXBKQS2c_1zjCNwsum1_a-TAdDamxdyzdzrSUo",
+                "csrf_hashes": "fav=91296c261ed1c6111c&wishlist=2b163cbe83129a2b70",
+                "thumb": [
+                    {
+                        "url": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=5ff9798148f0aefa1758b666f11dc0f2&c_uniq_tag=4bzwQnfM6PGfgPuhz3imT5-0i1ZjH15hePO_Xkj1EMY",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=460c07e208f92c58d32768336f3f4585&c_uniq_tag=p-ntVyY064z2nteM6tQIsGCu5QG2H3b84KEDi0rpbi0",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=65b3ef300e29079aa955766ac433616f&c_uniq_tag=0sWqdqWFEnYHEU6jUyOTe4j0LY70P3gE7WqMGOV1-Pg",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=81ad6be514a48a4b904e32bf7b33e46b&c_uniq_tag=7mpWafidc3dFnGTmjHExwcnj3qXmKePHiAqX4yj_sdE",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-7.userapi.com/impf/c631831/v631831836/166a1/9YRuLvKtfk4.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=e13d9bec8b5f3d1772282f5e689f44e6&c_uniq_tag=7sQ2tL603cFz30zjD_Hr5ou1gaLFGfjgDRZChL1SUGc",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-kallami-orkhideyami-liziantusami-i-ekzoticheskoy-zelenyu"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Роскошная гора из цветов :)",
+                "id": 106439,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Вертикальный букет с лилиями",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=3ff9ad2994c5cb74719e997f34195090&c_uniq_tag=SFiZ1v4saWT0HL3Tazemgo8eEwqoclLeHq22969kSSo",
+                "csrf_hashes": "fav=87ed9aa1714217c034&wishlist=26fcd8578b381645cb",
+                "thumb": [
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=82193df6f9e76365c59226d2dda695b3&c_uniq_tag=hlJM5i3T3bTNBMR3tBZaCp5Pmo_APpBXPJcYfXuwhWQ",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=ad40488e2bacb6007ed9f58b07158d8a&c_uniq_tag=r5A1HyRbHtjAJiVDo7YUFDD00wkECt5uGykUieVxkLA",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=a756fa1050b4810a962bc86d8f98a809&c_uniq_tag=y4wjfdnUIWLkpvesqTCYgT8VBMltQTdkk-YnlgGEyvs",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=e8040638db7387cf6813e805e7209f75&c_uniq_tag=kWiF5dtG70OSkTLLexBjh_hMwbXeZBEZ9EXDaCW-Qmw",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c633524/v633524681/15fcf/EOqj1_OaQrY.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=705e17775a23e8132cfe0eac27dc406c&c_uniq_tag=RFKkRvzxEJniEZXxAKXpk2WKdBnMypwpKg7S94wwdvU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "vertikalny-buket-s-liliami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 50053,
+                    "name": "Броши, значки и пины",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 40063,
+                        "name": "Бижутерия",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 30003,
+                            "name": "Аксессуары",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 20000,
+                                "name": "Женщинам",
+                                "is_v2": true,
+                                "parent": {
+                                    "inner_type": "market_market_category_nested",
+                                    "id": 10000,
+                                    "name": "Гардероб",
+                                    "is_v2": true
+                                }
+                            }
+                        }
+                    }
+                },
+                "description": "Очаровательная плетеная ракушка с белыми хризантемами Bacardi.",
+                "id": 98736,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Ракушка с цветами",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x400&quality=95&sign=8c1a4e564a1ea279ccce1159e6805e56&c_uniq_tag=nglvzQm_WvOeeRet6j5k15Eu-sKdokvurwRftEnK8Xs",
+                "csrf_hashes": "fav=fcdf8069b1be9626b4&wishlist=60f6d99a08ed1c28c7",
+                "thumb": [
+                    {
+                        "url": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x90&quality=95&sign=638d536c3c5a80c7ea50db039ce8fc31&c_uniq_tag=1GL5wJ33h-5huPvAx5lhC5oQkd6Rv-5E6gdUU2kyNsg",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x180&quality=95&sign=86ce1575dd7961abb7124a2dcc7b02db&c_uniq_tag=QRICjcCu0fp4pwqEP_cGniAdesmxKMQu4HVvOCSVUyM",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x360&quality=95&sign=231f09b168844b1799766a395f634d90&c_uniq_tag=eOr1PpAZs5AL_ubbIYqiH3Uikd1c-uPL6TZoZUJt4fY",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x480&quality=95&sign=95e8ee5307d7757203db7934fef791a9&c_uniq_tag=IpWKnMNaPtkxwZHyea5bNJImuxtGF2RnKAWvmy_IyF8",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-21.userapi.com/impf/c628321/v628321836/27e74/dIkbFczzzDs.jpg?crop=0.048,0,0.905,1&size=0x640&quality=95&sign=fd7ec30d8060efa1d39f268ffd80edb8&c_uniq_tag=7F5gCtgSdVJ_E3B3F-5zUESS4ZRrE5AakH3NJ-HO3I8",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "rakushka-s-tsvetami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Этот весенний букет мы делаем исключительно под заказ :)",
+                "id": 97284,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Сирень...",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=77c2d366353be31c9923da363a4ea714&c_uniq_tag=NY7sW_RJ9C32xLiZIO4PsfapgOFPaIZkSX1ZPNUeaew",
+                "csrf_hashes": "fav=298655982eec9dd085&wishlist=41f905f29ab799bea3",
+                "thumb": [
+                    {
+                        "url": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=c96bea7cef85a22e38fc82842181a038&c_uniq_tag=ysX8yR1t5WB0Pbb7u227f5i57MmGxMNZxnOrGLfiu0I",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=becd9713073ab6c701fce07656b4cb7a&c_uniq_tag=xyhkewBD12LXwuRoTdh7HfU0jKWbkAQq4tYTkLtcnrk",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=158549af4936a154359f36f9e01ed37a&c_uniq_tag=P3K63UMP1zXrypgVaCoAUVraszQgw1fDy-zynyihdRQ",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=cda8f940b88737dad6b1f03b9f042c6a&c_uniq_tag=o0EutgKgfbooSxSLFHNl3OpN4vaEbCqXSMxopDThyoU",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-60.userapi.com/impf/c630716/v630716681/1296a/FXNa2pahagM.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=e393954028cf7839146d1148f634c8ab&c_uniq_tag=lhhg73Hg0LUtVrIS4-ouCzRJ5Qn3kfCVffuHoDlxqSg",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "siren"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Престижный букет с ягодами Илекс :)",
+                "id": 96031,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с ягодами",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x400&quality=95&sign=c0feec64f78e8d8f8291dbd6290e57c9&c_uniq_tag=WFoFjbq9fBGpNfgyXTWbv7xxWkB5Zl4YEQngdTbOJBo",
+                "csrf_hashes": "fav=78307c857404b104de&wishlist=cec2fe2b3849b1913c",
+                "thumb": [
+                    {
+                        "url": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x90&quality=95&sign=8973a8a06dea754dd85c4a384fd054f5&c_uniq_tag=e33S7LHsNathlmVVZZ3ZaumGtRAfKV_8L6bCwo55m3U",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x180&quality=95&sign=6efee9c9d3f22a3aad733b55c44e755b&c_uniq_tag=cBjxw9TXh9vpkote0mjWHScNjzBVNwx4OcF52dRL1WU",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x360&quality=95&sign=7f1e0173edecc2a17424ac07b5e33432&c_uniq_tag=5jhQWxhd6qC1I1upYRrrTxVpdW41e8zG-RYqACojipA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x480&quality=95&sign=125a56f8a6d0e74594d7264298e4bcd2&c_uniq_tag=NZS4rOwJd_wmJ1daidoA9Y2hcGWk-GfYYQkiz8Hn0mA",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-2.userapi.com/impf/c630716/v630716681/11d3c/j0b1s9CiRUk.jpg?crop=0.154,0,0.691,1&size=0x640&quality=95&sign=b79884ecbe5c813dd44ea60f3529a18a&c_uniq_tag=TI93tIPHRKQ2M1dQcEH40IbcMh1LCnMso_JrGbTDueE",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-yagodami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Эти сублимированные цветы простоят больше семи лет и за это время не потеряют ни грамма своей природной красоты :)  ",
+                "id": 95891,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Композиция \"Лаванда\"",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x400&quality=95&sign=10fa857d967fed1e0722954733383d43&c_uniq_tag=tPCT2xTV0iXeX6xqpPYgVdy7PqdfmhM17wT_OYHtkkA",
+                "csrf_hashes": "fav=99d01a6d9ac8908f37&wishlist=55e7d7af4425693828",
+                "thumb": [
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x90&quality=95&sign=1f7926b8ffcc147bede99ecc4bbd6f30&c_uniq_tag=maupjx3O6ddBbbmJRWAzFmAvy5-eaN956_-5-NjnwYE",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x180&quality=95&sign=7ae962ddb620d1b5cb418b99a9ade0f1&c_uniq_tag=f2reEdvT958vV0DQN6sCXnjXaeDBxyoMd7qKRMKjd38",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x360&quality=95&sign=25ac879b03e54c388a8785f743f74468&c_uniq_tag=WiH9zbn-M_RFqIvHv2mfpFiCVNII5YeF66UnGOhZFzc",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x480&quality=95&sign=e0beca99db048830502cf2ad94f27991&c_uniq_tag=WfnRdl2aQt3fFvngpy4lgMSZuNkUPCEwjVSedRg6Nss",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630716/v630716681/11c53/YYMLDFh2Lks.jpg?crop=0.004,0,0.992,1&size=0x640&quality=95&sign=454e32007e007d941fbb634163156924&c_uniq_tag=GmYUV5Z7nCs8ddK3yoXxolI6359Dop1Bpdr-5zMAFsU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "kompozitsia-quotlavandaquot"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 906,
+                    "name": "Сувениры и цветы",
+                    "is_v2": false,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 9,
+                        "name": "Досуг и подарки",
+                        "is_v2": false
+                    }
+                },
+                "description": "У нас есть специальное предложение \"Букет+\", это букет невесты, к которому идут браслеты для девичника. Очень милое и трогательное украшение :) Кстати, букет из этого набора стоит от 1500 р ;)",
+                "id": 95788,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Цветочные браслеты",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x400&quality=95&sign=c4012224a606b6b05af0110109271fa6&c_uniq_tag=lNCY5KQUYWksXLvk2SCC1-xbF5ahi03rjdn0eXT2bmQ",
+                "csrf_hashes": "fav=fc79c34301efc44b35&wishlist=0619df67e6499750c4",
+                "thumb": [
+                    {
+                        "url": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x90&quality=95&sign=9555d1343aebdbb7e95367ebcb297ff0&c_uniq_tag=soXtzRYMemUgBaxyB6YfLhBTkU6SeK66n1zJBYcJX3M",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x180&quality=95&sign=20c1a4f265e543f85f0bad2dc079c593&c_uniq_tag=5tVwYLC82Dt1rtxXvaKY0Zmb1-Blm6dpvKI8cejmmv4",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x360&quality=95&sign=fa4ab9628204db6a991d7be6e8a10832&c_uniq_tag=NsCw4jinciU44Xu2KgOuoSykGPEopSafpjBMHw7yrw0",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x480&quality=95&sign=7b173a59c1395916819ac042b350c9f8&c_uniq_tag=dmxBPfTv90bF1kzFQK_nvN9jeP6IZoptgkBqzH6ZiZA",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-61.userapi.com/impf/c630716/v630716681/11ca6/h_QlrIvtGp4.jpg?crop=0.167,0,0.667,1&size=0x640&quality=95&sign=3b5a11724312dcd664f44dc7d3bba19f&c_uniq_tag=kxUtmkNuSe81toJxpe_TAEOUWKgGhxlM5wKPZVr7pCg",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "tsvetochnye-braslety"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Элегантный букет в красно-розовых тонах с орхидеей, альстромерией и гвоздиками :)",
+                "id": 94117,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Авторский букет с орхидеями",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=400x0&quality=95&sign=4974e6d7a11c15f909d77d2b5af19eaa&c_uniq_tag=IMAsKAI-Evo52TxTBCmxDemge5rBeafQiJrmDU70zK4",
+                "csrf_hashes": "fav=f74a5c7c24f3c583d6&wishlist=4622892fe3e64f04fd",
+                "thumb": [
+                    {
+                        "url": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=90x0&quality=95&sign=7ef508019f36bcbceaa3604aff869cbf&c_uniq_tag=rkJz9VO8UyK2XQhbSp1fk3BNdNv-DR3I5SZFj9NXry4",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=180x0&quality=95&sign=d0f6b00c6d74a7a410a3dbe878163f38&c_uniq_tag=aPusCfemyYp3It-ONTOqEYcUOzzdHMCCBj4pYOWrO_Y",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=360x0&quality=95&sign=0f7de6b6c296139f23bc909584d37176&c_uniq_tag=p9zsfPMajpcLrnqhVq7jMaji6HbzlBeccl22vzjNOyY",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=480x0&quality=95&sign=dee1a163f9ff185e3c6f1070b2bc6bdc&c_uniq_tag=h9X_7zoQ3kHi60qCRb3z2qrsAmL5QFqnR5S0Q2WhxPo",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-31.userapi.com/impf/c629427/v629427836/2ab23/iVl9aSULadE.jpg?crop=0,0.026,1,0.948&size=640x0&quality=95&sign=b8ce8062a4256f945333da54bf98b656&c_uniq_tag=bTTQHHNYVN60PQPvG6PGKhwFywvN4y3XiwgbYxcZdCU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "avtorskiy-buket-s-orkhideyami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Красивейшая роза цвета фуксия :)",
+                "id": 93938,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Пионовидные розы в крафте",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=400x0&quality=95&sign=7763c1e641aaca020f61fe339eb8ff03&c_uniq_tag=WncVQtfOcO9OJh19uXPrsDjtzui8QZxbtbe4kFhrZlM",
+                "csrf_hashes": "fav=5d31611edbdd5141f5&wishlist=ed37135a917041efc0",
+                "thumb": [
+                    {
+                        "url": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=90x0&quality=95&sign=fd652b2a87eac05ee1bb37abf81234a7&c_uniq_tag=g7gw5TyjbSFz4qXfNUlLT-6CTLM-97bwj0N-FsVgI1Y",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=180x0&quality=95&sign=62b70586e9f79861a244b259243906b9&c_uniq_tag=_vAVsP5UW1DmLMPeV6XnhowrHNW4ULP8-D7XMYE_YRw",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=360x0&quality=95&sign=4e5baab5a915ea0b661bb2d279842059&c_uniq_tag=IpytCX2EpNem5frc-oeeIT_0F2bvkNHqC7ReChYFifM",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=480x0&quality=95&sign=70fa469a3e52a5891ff85f8d54af3b58&c_uniq_tag=xGmGNopcXbOTuswyFkydeFKpS_DGNEI2C4TQpCEBNBA",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-79.userapi.com/impf/c630222/v630222681/27383/ji_wnTr3SqI.jpg?crop=0,0.114,1,0.772&size=640x0&quality=95&sign=c7aaecafe4bc1ab471ed6f09e3c47e1f&c_uniq_tag=0LNTBETaNhzYtnLyXP95VWGK4sbUTHgi3FmL4qCeAXQ",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "pionovidnye-rozy-v-krafte"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 906,
+                    "name": "Сувениры и цветы",
+                    "is_v2": false,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 9,
+                        "name": "Досуг и подарки",
+                        "is_v2": false
+                    }
+                },
+                "description": "Достойный букет для любой торжественной и деловой встречи :)",
+                "id": 91923,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет амариллисы и орхидеи",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x400&quality=95&sign=b957cceea1d9410f129ddd9b8bd1eaf7&c_uniq_tag=v0h1RrAxZofVPvd1yiyW1ECcUNSA20U-J6S8Hu8PK5A",
+                "csrf_hashes": "fav=1b1993402e034ce916&wishlist=d3f36337f62e2e5b08",
+                "thumb": [
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x90&quality=95&sign=730389db7123eb0a81631f6eb2d3a0fc&c_uniq_tag=TTsowZEmfw54cHvfAHhaAO4PrqemBKav-S9lHk4GyQU",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x180&quality=95&sign=6ae0b2812a52d9bc9c2b739c0b1ee16f&c_uniq_tag=NRm769aGkWGs697nHBKvVbeVB4vDBA5REXZ4WdGHKlM",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x360&quality=95&sign=b7e5a49e3b6d09e5d0ece6618800cedb&c_uniq_tag=Pw7Y2H_3jW8UbzRTFaBvZ4JtnsjrvrBFDk_el22yZo8",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x480&quality=95&sign=d63ad3ca81fc3e176c13843a145c9d0a&c_uniq_tag=-Hpg9PU1LsuzClQ8D4mwHdFnxNT9xLKH5N91H3yYV90",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630222/v630222681/266c3/8zm-EYgs0Y4.jpg?crop=0.103,0,0.794,1&size=0x640&quality=95&sign=0e1c61afda232eeded14d50b1895b71a&c_uniq_tag=WaoCuFNBXJF8GC1JO6gx6MwXGZCn_PVXS8u0emQeHEg",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-amarillisy-i-orkhidei"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Практичная и эффектная упаковка :)",
+                "id": 91136,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Розы в крафте ",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x400&quality=95&sign=a5573bd83ee175cd1a691ce933627fc7&c_uniq_tag=x7xMxHH3CGyYY1Yt_wVu4jK4y12YcFQQWyajM26tMMY",
+                "csrf_hashes": "fav=07330cbba2e0def86a&wishlist=7ee11de0262c240731",
+                "thumb": [
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x90&quality=95&sign=90224b605b7d8488ff538ffca3781d5e&c_uniq_tag=LlUxEuiAyZTbtK4VhIOYH1MTfx5XS1a3gkKV3yHERKw",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x180&quality=95&sign=88f0ab4fd9a87783a2efde4c1c90ef40&c_uniq_tag=yVYGZBREAAgW9GA7zMLb_7LWkngcqOF5MP4oHYgLlNU",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x360&quality=95&sign=a1f1676e7b331c47e7565098c332167d&c_uniq_tag=S0UhQCHqdH60Lx2Tls-TbEcS8jHhjkAlbUdrDzZvJ2I",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x480&quality=95&sign=7c056e22b95528a26f4ce9a5aa3b3fe4&c_uniq_tag=GR89fTs5Ei9ZYRTzfXSROXUt8mz_VfMcaw8vDZduDBU",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-22.userapi.com/impf/c630221/v630221681/1777b/0JrRCohq7iA.jpg?crop=0,0,0.999,1&size=0x640&quality=95&sign=fd2da5c8da2e09b32cf3aa81c189264e&c_uniq_tag=Bzt4kcLem5nGOTgh9FiqJHu_zbzpZTmk4X7_tIOilvI",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "rozy-v-krafte-"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Иногда так хочется чего-то экзотического :)",
+                "id": 90286,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Вертикальный букет с амариллисом",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=73794ee4be2eb170f14536cfe69b5875&c_uniq_tag=S-Lso44mGI9oV7rISrT8W_RJyVnJiJXkwROXSfOjyRI",
+                "csrf_hashes": "fav=f01a26d185039fed05&wishlist=7820a80e311d0762ff",
+                "thumb": [
+                    {
+                        "url": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=09759771f78dbcf3868ac4fd862f3e46&c_uniq_tag=P9QS1S8OGp8OJ_AJuaxAK9l4sK67Al8J6H3-GU0Xzhg",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=944333adb01e95acb1cefe90e4a2cdfb&c_uniq_tag=6ubLWLZS0bj701daDpk5ViWZeO--yQdgwXc1uMwnGIA",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=02bb42b0efd57ee2ef2162fbcaea3b18&c_uniq_tag=AcKXzfk0gumor-pzw830PVfYr6QX-_r1QcUP_nZgNjQ",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=1f2b87763dd3f1f1da787ce90c5aadff&c_uniq_tag=jXCcZ6R0AE59vvQYS-f1G7zaRggSf0Aharj5tAf3LYI",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-57.userapi.com/impf/c630221/v630221681/1722f/D41zq2ZHvAE.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=55d91a9bfeb9973df9998b01bab3b070&c_uniq_tag=0hbWqEhTAXY-UWQR_rg0cHYaB4uxLi6vyTzlOFBGRcY",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "vertikalny-buket-s-amarillisom"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Пёстрые анемоны, как напоминание о лете :)",
+                "id": 90283,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет с анемонами",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x400&quality=95&sign=d3c2a1ff8a289ae2ecf3a39d0276b53a&c_uniq_tag=zON8alZfF1BJ3EaoUgS7Zfn-o7Rm6FgLZ8MIXWEiAtA",
+                "csrf_hashes": "fav=0c722485ebbeb28260&wishlist=63f48599562f91c189",
+                "thumb": [
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x90&quality=95&sign=f412ab39f7b9d6d3f1080d96cf1f8f93&c_uniq_tag=-VtK3ssiMYmGUn4BIoDpt7Hy4p8gWRT_FUl729QL4e8",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x180&quality=95&sign=b79f612ac9977c6a567eb3bd95f08d2f&c_uniq_tag=jpxhsECUqiobhJ9h5QvgLWmZutkF6UCo5H7swyb9IdU",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x360&quality=95&sign=cd0b059e6e9bca22cc0c0e179731a9ec&c_uniq_tag=VT_wPwtDC814iYTwXya1GfrHrEsMUAX__0SiLKBzRJg",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x480&quality=95&sign=76f9275b53f3aec7074a2cb7bcd7f527&c_uniq_tag=yw0uEaWBmQ3qRVQ7nrh7aBVKgnen4AIRTmEBTAUsK24",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-77.userapi.com/impf/c630221/v630221681/17209/iPE210vE97g.jpg?crop=0.019,0,0.962,1&size=0x640&quality=95&sign=65f3b3c6608dd1ebbe9603769e8929a8&c_uniq_tag=VxFNtRUl0X6Cy_yli6tBs7BXybV4Jiv_yJhnJNUtJXg",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-s-anemonami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Приятное цветовое сочетание этого трогательного букета растопит любое сердце :)",
+                "id": 90247,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет из нежных роз",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x400&quality=95&sign=e8b506082abb791cf5636d477a182df7&c_uniq_tag=5RULyMq14ky8Zfcam4ZcxuXZsmBP7NFwKBZu3Imtz-w",
+                "csrf_hashes": "fav=e7068fa9b904be8bba&wishlist=c91a309c93efcd97cb",
+                "thumb": [
+                    {
+                        "url": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x90&quality=95&sign=401a91fb03836b10bd8134703b28df34&c_uniq_tag=EsJOYZF1gCYMUn6qg1qyEi-n9VpoZu8MRfmWSzSab7o",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x180&quality=95&sign=9efbe29738bab610ff22de9ce857029a&c_uniq_tag=5vdQOMDLQ79OZQ3lfWtIPVwTnNGLYY6mKihEWxH7H9o",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x360&quality=95&sign=ad892f145385da071cff5b322c5c46dc&c_uniq_tag=pug_3R9_oMcDQhwnLQoMv60nb_GryjgvmHqFrlI7a2Q",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x480&quality=95&sign=f87f4769934e0970dec2252d9973ca7a&c_uniq_tag=SjUkKIog4efRjM3s-ZsEgJfwQtgl46b9WNlHa8LBPOM",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-24.userapi.com/impf/c630221/v630221681/17283/P5CRkhMxnOA.jpg?crop=0.167,0,0.667,1&size=0x640&quality=95&sign=37e81e8a86023d3f4f1ccb3b3209bee0&c_uniq_tag=57d7HSXdZAHwGbtv6ejy32WU5sEL9h-eqqrfik8Bb_Q",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-iz-nezhnykh-roz"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 41012,
+                    "name": "Конфеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30475,
+                        "name": "Хлеб, выпечка, сладости",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20055,
+                            "name": "Бакалея",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10006,
+                                "name": "Продукты питания",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Очаровательный и изысканный подарок: коробка с изысканными сладостями и цветочной композицией.\n\nБесплатная доставка по Санкт-Петербургу!\n\nЗаказ можно сделать по телефону \n+7 (931) 364-92-33 или +7 (812) 323-99-53 ",
+                "id": 88240,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Candy Box",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x400&quality=95&sign=24d0b16b328700622a2786d9e3cca169&c_uniq_tag=PaeW9LerVKMRus30gdHEs6AEC4_JfXXaHVX8WyjauIE",
+                "csrf_hashes": "fav=1b2074f82dd9b85fae&wishlist=b1b5125cbc3319bd20",
+                "thumb": [
+                    {
+                        "url": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x90&quality=95&sign=17289c25a5e2b018b0b320618910d118&c_uniq_tag=YTUaJS_ixC7Av_Xrc8fS4f65Bv6oe7kGzMt5NhHRGDE",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x180&quality=95&sign=d93cbd17ca155f091590b406ba8728eb&c_uniq_tag=a_l46FIIyniUK_OzfpNblNmUMAVsS3K21j6TWzQE0zc",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x360&quality=95&sign=0507622f9ead4e41e8303a7298bd44e8&c_uniq_tag=OGFccbm5ppbyRcmF_3jplpsbKE4n20BeSYKJwhabYaA",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x480&quality=95&sign=2f2856b6e929ee4291ec6fd3f483c7d1&c_uniq_tag=U4mApFElBe8LwPpEmY81dXXxeb_G9R-svdP-BiRph50",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-65.userapi.com/impf/c630320/v630320836/ff73/OTHjFUJeDS4.jpg?crop=0.167,0,0.667,1&size=0x640&quality=95&sign=72667045f517feb2cd72ec84a6c493b4&c_uniq_tag=3L_UqtsIYldu7QyWbMD3r2I7Yl7hEaGIXj4kpHHBslU",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "candy-box"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Декорированный подарочный пакет с нежными кустовыми розами.\n\nБесплатная доставка по Санкт-Петербургу!\n\nЗаказ можно сделать по телефону \n+7 (931) 364-92-33 или +7 (812) 323-99-53",
+                "id": 88237,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Пакет с кустовыми розами",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=339bd84406435183101d4a1ce595046c&c_uniq_tag=9MZGQBYI0yDNV_8_Asi-lvlQtxgGOb-EgixcgZmyZoM",
+                "csrf_hashes": "fav=e9e3cd454a4ac344e7&wishlist=48149357aface5b504",
+                "thumb": [
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=825c2ae36a6e12a0a7da9dee674f2fcc&c_uniq_tag=Be43hx-ZJEvQpwOXLycTAEViWYX4gQsp110JAiNnbH4",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=34a2c95b391804552ea88c1f45033535&c_uniq_tag=9JT9nOLDGLmA22g2H4wlLIaczGZKUGBhaeT53TBm6Zw",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=f414ec10b5fcb174f1cc60d58749114c&c_uniq_tag=WbuRi88oGW1-i8C4zXeXTmVGzKa8vgGcppdu3jeU0H4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=f57794e3a2d86d11da8eebe345d0259b&c_uniq_tag=X3P6rzW976qbcP51s6Wi4-8Nj8ZMgpkTTSvJaqcK9mY",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-19.userapi.com/impf/c630320/v630320836/ff4d/GaZJ0gOErqE.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=e6d59cc5bfd733820efc070b486b843d&c_uniq_tag=KiR-czMXhZmcMbPawnGXphlxN7U-6bosrcKd6FhEE5w",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "paket-s-kustovymi-rozami"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Необыкновенный букет из пионовидных роз.",
+                "id": 88273,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет из пионовидных роз",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x400&quality=95&sign=65aceaca91eecd45248c968c2e281f8a&c_uniq_tag=n4WpBQdpxfeSCndvYvQHuJh-u0gA6NLtB-aYt8J2VDo",
+                "csrf_hashes": "fav=cb7c3c21bedb2e9252&wishlist=aed31d7b89065677a5",
+                "thumb": [
+                    {
+                        "url": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x90&quality=95&sign=819a3515748f97f9d6c6cfa71cf8375c&c_uniq_tag=CVSxtCMpbbx7cuvov9A1rP5j2ybDrq414NR4nvxoXEM",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x180&quality=95&sign=c8883a00fd3ec9828d993c68a2c671ac&c_uniq_tag=xzf82BvXhhdFdG9kjAMHLt5GJoMp9ad4F_dsMsB4kXI",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x360&quality=95&sign=ecad4158c306797d42de6051621c437b&c_uniq_tag=7aDASaykMtwPQQYCSip_9ggOAD17Ko259j8JnLDQTBM",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x480&quality=95&sign=69c203120b07e042370f4a48362d3a24&c_uniq_tag=0laDnp1qx0vQ-CozPYq8RfE0gQ8Wjx6GKkGVnL4_8fc",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-68.userapi.com/impf/c630320/v630320836/10003/XPNpIff4qx8.jpg?crop=0.167,0,0.667,1&size=0x640&quality=95&sign=0592b1c424c3890668b3eac1bb4d1d6e&c_uniq_tag=6STrFkQXbu7Q1eIqJ01WgeRoa0CijaTXUKG6oCtT0tw",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-iz-pionovidnykh-roz"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Очаровательный вертикальный букет с амариллисами, орхидеями и розами.",
+                "id": 88272,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=6e0af03bcddf314fc082f8d1cf628008&c_uniq_tag=09jPBNLMKCbQsKLmRUdriKSlZLpFOtcOX4mQN8ZL7zg",
+                "csrf_hashes": "fav=059216c186be155258&wishlist=03ee1be5ea1b48e88c",
+                "thumb": [
+                    {
+                        "url": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=09ff271843d346a00575d1d993c10962&c_uniq_tag=ekj2v86K7KH9LBFyOY370avVymPaQb8W5AFdu9Nhud4",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=9414af04e9124bad0b22f42910e29e2e&c_uniq_tag=QntjjhCdNlpkIv2diSadzgMS_ClkPKt4yLcrQLXhtnI",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=9ef3897366e34c420b1fc527b8af1db0&c_uniq_tag=5VpTkYAaKHPGF94yjOAxzJjp5TwdZnkkQ2hC3WyGfaE",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=00b48c745a625b8ffe579855571d5cb4&c_uniq_tag=3-k3BfPdnR5ycFv2dtTm8cyQNkYWj_OsQ1Os202kUdE",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-46.userapi.com/impf/c630320/v630320836/ffdd/VSAfjpGDIvE.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=8fbba1912582542eb8152a97d5125022&c_uniq_tag=7APODmIZ_BMqG2cJmQR13JDh1Rge6OO_u3JBVgQSqh8",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Шикарный букет из 101 розы с сердцем.\n\nБесплатная доставка по Санкт-Петербургу!\n\nЗаказ можно сделать по телефону \n+7 (931) 364-92-33 или +7 (812) 323-99-53",
+                "id": 88236,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет-сердце из 101 розы",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x400&quality=95&sign=fccfa34e323b064716e937b79aed0e68&c_uniq_tag=AdW5Ng7c5Q31_ENzsvUtK-UMXag5gWVg1d5WBkvSUFg",
+                "csrf_hashes": "fav=94f8015fa8a0ed7153&wishlist=e1356ea77770980be7",
+                "thumb": [
+                    {
+                        "url": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x90&quality=95&sign=9c61c4a276b171171384992802f1f8d0&c_uniq_tag=42t8gQYQUQhE8oUcril29pQcJY9cAK1qDtVkq3_B_CI",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x180&quality=95&sign=c9c24bf3994ec622a0582741477d9ec0&c_uniq_tag=be7iQ9NReufK3dQ_LzC4VJLYQFGGhCeE-EcoLiecQYM",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x360&quality=95&sign=ab55c5d77e769f6ce8ad0b3e1689d3c3&c_uniq_tag=Ow9UfqgwaVumNqKaPMv9yKYR6688vTDrjNcGdo0StCo",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x480&quality=95&sign=21e43771b706b677b8ae6ce09378cea5&c_uniq_tag=WGGejOMJRkbBkpTNZ9-klkOjJ2xblLzxE3nixFzLFuU",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-47.userapi.com/impf/c630320/v630320836/ff27/B_4SPeKXYHU.jpg?crop=0.167,0,0.667,1&size=0x640&quality=95&sign=e0a13a5a9747adbbd5177833949e7c4a&c_uniq_tag=FSaFa6UKN8iBmbZz5j8FJCfbsDsfe7XO4ugpTL4tUN4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-serdtse-iz-101-rozy"
+            },
+            {
+                "availability": 0,
+                "category": {
+                    "inner_type": "market_market_category_nested",
+                    "id": 40694,
+                    "name": "Цветочные букеты",
+                    "is_v2": true,
+                    "parent": {
+                        "inner_type": "market_market_category_nested",
+                        "id": 30354,
+                        "name": "Цветы и букеты",
+                        "is_v2": true,
+                        "parent": {
+                            "inner_type": "market_market_category_nested",
+                            "id": 20036,
+                            "name": "Сувениры и цветы",
+                            "is_v2": true,
+                            "parent": {
+                                "inner_type": "market_market_category_nested",
+                                "id": 10004,
+                                "name": "Хобби и развлечения",
+                                "is_v2": true
+                            }
+                        }
+                    }
+                },
+                "description": "Каждый день в Цветодоме представлены небольшие, но очаровательные букеты-комплименты по 350 рублей.",
+                "id": 88274,
+                "owner_id": -22411211,
+                "price": {
+                    "amount": "100",
+                    "currency": {
+                        "id": 643,
+                        "name": "RUB",
+                        "title": "₽"
+                    },
+                    "text": "1 ₽",
+                    "price_type": 0,
+                    "price_unit": 0
+                },
+                "title": "Букет-комплимент",
+                "is_owner": false,
+                "is_adult": false,
+                "thumb_photo": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=400x0&quality=95&sign=8ebedaf08c577c6c790a594a1eb1b732&c_uniq_tag=GiTX4-8Aq7EXvzuypGATqzGcRxNqnEqm8atqJYUaBik",
+                "csrf_hashes": "fav=b299d658824dd4aa06&wishlist=2bede531511e07f3fb",
+                "thumb": [
+                    {
+                        "url": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=90x0&quality=95&sign=83ad2426df331ccf868b9e6c48e0fc23&c_uniq_tag=1Si-uAztwoUcH5nJf-ToN6qnrdnwYEwmHna4X7NVnEs",
+                        "width": 90,
+                        "height": 90
+                    },
+                    {
+                        "url": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=180x0&quality=95&sign=880ff891a974b7bdbf26b9156d949fcf&c_uniq_tag=2X0OM9e7YYL4Dg2yRM703GxIzvD7N2kZzUXsJ5LObi8",
+                        "width": 180,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=360x0&quality=95&sign=d5a568234d5f182ede0c49a63bbb68b4&c_uniq_tag=AhIZzvsiXK0KX9yS-ZjaSeZrkSgow0gDSgWw9ngQ-Q4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=480x0&quality=95&sign=76dc140c2f58b69b06f4545d3cb47325&c_uniq_tag=DTE5N_LpCGBpxMMGJed1VY16nPIK8kZMQpU-fYf6llg",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://sun9-16.userapi.com/impf/c630320/v630320836/10069/XSd13CD0_u4.jpg?crop=0,0.167,1,0.667&size=640x0&quality=95&sign=b7f689411c0f4e39d518a7d010e62173&c_uniq_tag=A-6-_8YaQdgCYl1zxhA9GPWqNkKAZpMKnyk0HAU3NO4",
+                        "width": 640,
+                        "height": 640
+                    }
+                ],
+                "item_rating": {
+                    "rating": 0,
+                    "reviews_count": 0,
+                    "reviews_count_text": "Нет отзывов"
+                },
+                "has_group_access": true,
+                "seo_slug": "buket-kompliment"
+            }
+        ]
+    }
+}
