@@ -17,3 +17,5 @@ class ProductDAO:
             res = await session.execute(select(Product).limit(limit))
             res = res.scalars().all()
         return res
+
+

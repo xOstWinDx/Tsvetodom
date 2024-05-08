@@ -1,13 +1,10 @@
-import json
-from pathlib import Path
-
 from fastapi import FastAPI
+
 from starlette.requests import Request
-from starlette.responses import RedirectResponse
+
 from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
-from database import engine, Base
 from products.dao import ProductDAO
 
 app = FastAPI()
@@ -48,8 +45,7 @@ async def info(request: Request):
 
 
 @app.get('/products')
-async def products(request: Request):
-    products = await ProductDAO.get(50)
-
+async def products(request: Request, lim: int = 25):
+    product_list = await ProductDAO.get(lim)
     return templates.TemplateResponse(request=request, name='products.html',
-                                      context={'products': products})
+                                      context={'products': product_list})
