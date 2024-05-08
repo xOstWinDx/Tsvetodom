@@ -1,11 +1,33 @@
-from fastapi import FastAPI
+from typing import Generic, T
 
+from fastapi import FastAPI, Depends
+from fastapi_pagination import add_pagination, Params
+
+from fastapi_pagination.ext.sqlalchemy import paginate
+from sqlalchemy import select
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import Session
+from fastapi_pagination.links import Page as BasePage
 from starlette.requests import Request
 
 from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
+from database import get_db
 from products.dao import ProductDAO
+from products.models import Product
+from products.schemas import ProductOut
+
+
+class Page(BasePage[T], Generic[T]):
+    @property
+    def info(self) -> str:
+        def _get_wrap_link(title: str, link: str) -> str:
+            return f'<a href="{link}">{title}<a/>'
+
+        options = "\n".join(_get_wrap_link(title, link) for title, link in self.links.dict(exclude_none=True).items())
+        return f"<div>{options}</div>"
+
 
 app = FastAPI()
 
@@ -44,8 +66,12 @@ async def info(request: Request):
 #         print(i.id)
 
 
-@app.get('/products')
-async def products(request: Request, lim: int = 25):
-    product_list = await ProductDAO.get(lim)
+@app.get('/products', response_model=Page[ProductOut])
+async def get_products(request: Request, page: int = 1, db: AsyncSession = Depends(get_db)):
+    page = await paginate(db, select(Product).order_by(Product.id.desc()), params=Params(size=21, page=page))
+
     return templates.TemplateResponse(request=request, name='products.html',
-                                      context={'products': product_list})
+                                      context={'products': page.items, 'page': page, 'entries_list': page})
+
+
+add_pagination(app)
