@@ -22,10 +22,26 @@ from products.schemas import ProductOut
 class Page(BasePage[T], Generic[T]):
     @property
     def info(self) -> str:
-        def _get_wrap_link(title: str, link: str) -> str:
-            return f'<a href="{link}">{title}<a/>'
+        ru_title = {
+            'first': "Начало",
+            'last': "Конец",
+            'self': "Наверх",
+            'next': "Дальше",
+            'prev': "Назад",
+        }
 
-        options = "\n".join(_get_wrap_link(title, link) for title, link in self.links.dict(exclude_none=True).items())
+        def _get_wrap_link(title: str, link: str) -> str:
+            if link is None:
+                return ''
+            return f'<a href="{link}"><button>{ru_title[title]}</button><a/>'
+
+        gg = self.links.model_dump(include={'first', 'prev', 'next', 'last'})
+        opt = []
+        opt.append(_get_wrap_link('first', gg['first']))
+        opt.append(_get_wrap_link('prev', gg['prev']))
+        opt.append(_get_wrap_link('next', gg['next']))
+        opt.append(_get_wrap_link('last', gg['last']))
+        options = "\n".join(opt)
         return f"<div>{options}</div>"
 
 
@@ -71,7 +87,7 @@ async def get_products(request: Request, page: int = 1, db: AsyncSession = Depen
     page = await paginate(db, select(Product).order_by(Product.id.desc()), params=Params(size=21, page=page))
 
     return templates.TemplateResponse(request=request, name='products.html',
-                                      context={'products': page.items, 'page': page, 'entries_list': page})
+                                      context={'products': page.items, 'page': page})
 
 
 add_pagination(app)
